@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "474577741700",
+    "project_id": "myotpauth-38c59",
+    "storage_bucket": "myotpauth-38c59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474577741700:android:cbec8da3d2f3d98e5f1fd1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474577741700-16imdira0f4tannuubqm352q99bpa075.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_firebase_otp",
+            "certificate_hash": "4d6c9258f39e24b869d63d021ec13f8e9e788e11"
+          }
+        },
+        {
+          "client_id": "474577741700-pm2ads3aktqqg2kemiu54pfomka25fgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApsQKCQ82a7wHHsZli-o5kTaBJR03gtS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474577741700-pm2ads3aktqqg2kemiu54pfomka25fgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
